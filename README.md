@@ -49,4 +49,4 @@ Git and GitHub are used for version control, development branches, collaboration
 
 ## Author
 
-Oluwademilade
+Oluwademilade Adesida 
